@@ -2,15 +2,20 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Said Sowma and I'm a Web Developer, from the US</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
+Hello! 👋 I'm [Your Name], a 
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+<p align="left">✨ Full Stack Developer. I love turning ideas into functional web applications and exploring the creative side of tech with Blender and Unreal Engine 5. Currently focused on remote web development and building a side business. Let's connect and code together! 🚀.<br>
+  📚 I'm currently learning React.<br>
+  🎯 Goals: To find a remote job with a flexible scedule<br>
+  🎲 Fun fact: I am a MMA figher</p>
 
 ###
 
