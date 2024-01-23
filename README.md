@@ -15,7 +15,7 @@ Hello! 👋 I'm [Your Name], a
 <p align="left">✨ Full Stack Developer. I love turning ideas into functional web applications and exploring the creative side of tech with Blender and UE5.<br> Currently focused on remote web development and building a side business. Let's connect and code together! 🚀.<br>
   📚 I'm currently learning React.<br>
   🎯 Goals: To find a remote job with a flexible scedule<br>
-  🎲 Fun fact: I am a MMA figher</p>
+  🎲 Fun fact: I am a MMA fighter.</p>
 
 ###
 
