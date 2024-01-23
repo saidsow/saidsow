@@ -8,8 +8,6 @@
 
 <h2 align="left">About me</h2>
 
-###
-Hello! 👋 I'm [Your Name], a 
 
 
 <p align="left">✨ Full Stack Developer. I love turning ideas into functional web applications and exploring the creative side of tech with Blender and UE5.<br> Currently focused on remote web development and building a side business. Let's connect and code together! 🚀.<br>
